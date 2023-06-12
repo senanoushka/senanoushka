@@ -16,7 +16,7 @@ I'm a passionate and curious Computer Science Engineering undergraduate with a f
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=senanoushka&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---

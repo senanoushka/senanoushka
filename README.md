@@ -1,4 +1,4 @@
-# 💫 About Me: <img src="https://media.giphy.com/media/dHggV5wmfTaIy3tyNb/giphy.gif" width="50" height="50"/>
+#  About Me: <img src="https://media.giphy.com/media/dHggV5wmfTaIy3tyNb/giphy.gif" width="50" height="50"/>
 </h2>
 I'm a passionate and curious Computer Science Engineering undergraduate with a focus on Machine Learning and Deep Learning. I'm currently expanding my knowledge in web development and eagerly seeking opportunities in the exciting fields of testing, ML, and DL. With a strong foundation in Python, C, and SQL, I've already had the chance to work on captivating ML projects.<br><br>My fascination with Data Science drives me to constantly explore new possibilities and push the boundaries of what's possible. I'm particularly enthusiastic about open-source initiatives, as they provide a collaborative environment for knowledge sharing and growth.<br><br>If you're looking for someone with a love for ML and DL, an eagerness to learn, and a genuine passion for data science, then we're on the same wavelength! Let's connect and explore the endless possibilities together.
 
